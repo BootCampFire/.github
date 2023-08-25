@@ -1,8 +1,9 @@
+![부트캠프 홍보지](https://github.com/BootCampFire/.github/assets/99172832/fca4f7fd-2f14-425f-97d5-5d5c6c98328a)
+
 
 
 # 🔥 캠프 파이어 🔥
-> React와 Spring으로 구현한 부트캠프 커뮤니티
-
+> 부트캠프에 참가하고 있는, 참가를 원하는 사람들의 소통공간, 부트캠프 커뮤니티 
 <br>
 <p align="left">  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> </p>
 <!-- ### 🔗라이브
@@ -11,15 +12,13 @@
 
 ## ✈️ 프로젝트 소개
 부트캠프 정보 제공과 소통을 목적으로 하는 커뮤니티 사이트입니다.
-- 부트캠프 정보 열람
-- 부트캠프 후기 열람
-- 타 부트캠프와의 소통
-- VS(경쟁요소)
+- 부트캠프 정보 및 후기 열람
+- 주제별 익명 게시판 커뮤니티
+- 알고리즘 문제풀이와 2048 게임으로 가볍게 즐기는 경쟁요소
 
 <br>
 
 ## ⏰ 개발 기간
-`개발 진행 중`
 <br>
 2023년 7월 04일 ~ 2023년 08월 18일
 
@@ -28,6 +27,9 @@
 ## 👩‍💻 멤버 구성
 <table>
     <tr height="140px">
+        <td align="center" width="130px">
+            멤버
+      </td>
       <td align="center" width="130px">
         <a href="https://github.com/mycook3"><img height="100px" width="100px" src="https://avatars.githubusercontent.com/u/45381384?v=4"/></a>
             <br />
@@ -57,24 +59,27 @@
             <a href="https://github.com/kcrikana">김민범(FE)</a>
       </td>
      <tr/>
-     <tr>
+    <tr>
+        <td align="center" width="130px">
+            기여
+      </td>
        <td align="center" width="130px">
-         기술스택 이해
+           로그인 및 회원가입
        </td>
        <td align="center" width="130px">
-         Spring 공부 
+         게시판, CI/CD
        </td>
        <td align="center" width="130px">
-         개발일지 작성
+         부트캠프, VS
        </td>
        <td align="center" width="130px">
-         리액트 마스터
+         게시판, 디자인
        </td>
        <td align="center" width="130px">
-         DB설계, 관리학습 
+         부트캠프, DBA
        </td>
        <td align="center" width="130px">
-         디자인 설계 학습
+         메인, 로그인 및 회원가입
        </td>
     </tr>
 </table>
@@ -84,6 +89,7 @@
 ## 📌 기술
 &nbsp;&nbsp;&nbsp;&nbsp; **🛠 Frontend Develop** <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=Typescript&logoColor=white"/><img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/><img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/Redux-1572B6?style=flat-square&logo=redux&logoColor=white"/>
 
 
 &nbsp;&nbsp;&nbsp;&nbsp; **🛠 Bacnend Develop** <br>
